@@ -4,12 +4,12 @@
   <rect x="0" y="300" width="800" height="300" fill="black" />
 
   <!-- Group: translate, then rotate -90 degrees about origin -->
-  <g transform="translate(457.735,300) rotate(-90)">
+  <g transform="translate(437.735,300) rotate(-90)">
     <polygon
       points="0,-230.94 -200,115.47 200,115.47"
       fill="none"
       stroke="blue"
-      stroke-width="50"
+      stroke-width="60"
     />
   </g>
 </svg>
